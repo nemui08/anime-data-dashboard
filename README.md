@@ -82,15 +82,16 @@ anime-data-dashboard/
 │
 ├── src/
 │   └── anime_data.py        # Data collection & processing
-│
-├── data/
-│   └── anime_dataset.xlsx   # Cleaned dataset
-│
+│ 
 ├── dashboard/
-│   └── anime_dashboard.xlsx # Final Excel dashboard
+│   └── anime_dashboard.xlsx # Excel dashboard
 │
 ├── images/
 │   └── dashboard.png        # Screenshot
+│
+├── .gitignore
+│
+├── LICENSE
 │
 └── README.md
 ```
