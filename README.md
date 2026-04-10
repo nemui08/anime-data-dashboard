@@ -78,11 +78,10 @@ The goal is to turn raw data into meaningful insights through visualization and 
 ## 📁 Project Structure
 
 ```
-anime-data-dashboard/
-│
+.
 ├── src/
 │   └── anime_data.py        # Data collection & processing
-│ 
+│
 ├── dashboard/
 │   └── anime_dashboard.xlsx # Excel dashboard
 │
@@ -90,9 +89,7 @@ anime-data-dashboard/
 │   └── dashboard.png        # Screenshot
 │
 ├── .gitignore
-│
 ├── LICENSE
-│
 └── README.md
 ```
 
