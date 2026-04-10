@@ -99,7 +99,7 @@ The goal is to turn raw data into meaningful insights through visualization and 
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/anime-data-dashboard.git
+git clone https://github.com/nemui08/anime-data-dashboard.git
 ```
 
 2. Run the Python script
