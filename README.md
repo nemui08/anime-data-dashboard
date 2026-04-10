@@ -79,20 +79,19 @@ The goal is to turn raw data into meaningful insights through visualization and 
 
 ```
 .
-├── src/
-│   └── anime_data.py        # Data collection & processing
-│
 ├── dashboard/
-│   └── anime_dashboard.xlsx # Excel dashboard
-│
+│   └── anime_dashboard.xlsx
+
 ├── images/
-│   └── dashboard.png        # Screenshot
-│
+│   └── dashboard.png
+
+├── src/
+│   └── anime_data.py
+
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ```
-
 ---
 
 ## ▶️ How to Run
